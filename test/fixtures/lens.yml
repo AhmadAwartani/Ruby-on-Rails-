@@ -1,0 +1,18 @@
+
+one:
+  colour: MyString
+  description: MyText
+  prescription_type: 1
+  lens_type: 1
+  stock: 1
+  price: 9.99
+  currency: MyString
+
+two:
+  colour: MyString
+  description: MyText
+  prescription_type: 1
+  lens_type: 1
+  stock: 1
+  price: 9.99
+  currency: MyString

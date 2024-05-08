@@ -1,0 +1,10 @@
+
+one:
+  frame: one
+  lens: one
+  total_price: 9.99
+
+two:
+  frame: two
+  lens: two
+  total_price: 9.99
